@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "drug_use",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": "Did you use **drugs** today?",
     "responseOptions": {
