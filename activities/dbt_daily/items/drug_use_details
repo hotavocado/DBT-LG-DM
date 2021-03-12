@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "drug_use_details",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What type of drug and how much did you use?"
+}
